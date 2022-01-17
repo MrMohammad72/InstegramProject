@@ -13,6 +13,6 @@ In this project, we intend to implement a social network similar to Instagram. P
 9. Feature Search posts saved by users.
 10. Feature posts have hashtags.
 11. Feature View hashtags in a post.
-12.Feature search posts based on hashtags.
+12. Feature search posts based on hashtags.
 13. Feature delete posts based on specific hashtags.
 14. Feature View three trending hashtags in the last 24 hours.
